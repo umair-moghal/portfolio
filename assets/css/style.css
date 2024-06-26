@@ -850,6 +850,10 @@ section .container {
   display: none;
 }
 
+#portfolio-flters {
+  display: none !important;
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
