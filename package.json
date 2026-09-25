@@ -1,0 +1,1 @@
+{"name":"umair-portfolio","private":true,"type":"module","scripts":{"dev":"vite","install:ci":"npm ci"},"devDependencies":{"vite":"7.1.7"}}
