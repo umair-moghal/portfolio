@@ -1,0 +1,4 @@
+# Netlify redirect / rewrite configuration
+# Redirect /dist/index.html and /dist/* to root /
+/dist/index.html  /  301!
+/dist/*           /:splat  301!
